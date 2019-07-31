@@ -1,6 +1,6 @@
 <?php
-define('JWTCONSUMER_KEY', '3MVG9vtcvGoeH2bjL78f3tlzuhXAT7mNmI2GaB8.JhXAfawBO2LW_BU5g5A1qqD12pc90LVbq1snMKgO73NeX');
-define('CONSUMER_SECRET', '1E48D982F0704542A28A1AEB0C4347C9E27E36FEB593B35BB246F98FC460599C');
+define('JWTCONSUMER_KEY', 'app_id');
+define('CONSUMER_SECRET', 'app_secret');
 define('JWTAUD', 'https://login.salesforce.com');
 define('CALLBACKURL', 'https://login.salesforce.com');
 
